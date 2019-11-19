@@ -1,0 +1,6 @@
+1. Run index.js file(Starting Server)
+	-->npm start
+2. Go to Front-end
+	-->Run index.html
+
+
